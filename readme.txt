@@ -1,2 +1,2 @@
-Git is a system
+Git is a distributed system
 Git is free
